@@ -1,0 +1,4 @@
+Hola devp los siguiente estructura es para el consumo de apis de una base de datos local en este equipo
+podras encontrar la configuracion de conexion en el archivo config/database.php
+el  fichero de objeects cintiene los modelos de las tablas en la bdd asi como metodos que se usaran en las apis, puedes agregar mas modelos si esnecesario
+el fichero de apis contienen todas las apis que se van a consumir aqui puedes agregar mas apis dependiendo de tus necesidades
